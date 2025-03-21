@@ -1,5 +1,4 @@
 - (❁´◡`❁) Hi, I’m Rachim Tashukhadziev
-- (●'◡'●)  I’m interested in: Python, Java, Javascript, Html
+- (●'◡'●)  I’m interested in: Java, Javascript, Html, react
 - ￣へ￣  I’m currently learning: Java 
-- ƪ(˘⌣˘)ʃ I’m looking to collaborate on: in the field of Python, Java software development
 - ^_~ How to reach me: rachimwolf@gmail.com
